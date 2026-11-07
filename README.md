@@ -1,9 +1,9 @@
-Repository for Homework 3 of Robotics Labs course made by Marco Bartone P38000237, Giacomo Caiazzo P38000236, Matteo De Simone P38000232, Nicola Monetti P38000238.
+# ROS 2 IIWA Visual Servoing
 
-# Robotics Lab - Homework 3
+**Contributors:** Marco Bartone, Giacomo Caiazzo, Matteo De Simone and Nicola Monetti.
 
 ### Overview
-This is a report of the Homework 3 of Robotics Lab course using Docker and ROS2 with Gazebo. The repo contains the steps to download the folders from github and to run the launch file for the simulations of the built manipulator robot with the velocity controller, the joint space inverse dynamic torque controller or the operational space inverse dynamics torque controller in a world with an object to detect (a sphere or an aruco marker) with a fixed camera on the end-effector.
+A ROS 2 workspace for vision-based control of an iiwa manipulator using a camera mounted on its end-effector. It combines sphere and ArUco marker detection with velocity and inverse-dynamics torque control in Gazebo.
 
 ### Usage
 
